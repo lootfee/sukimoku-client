@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  padding: 0;
+  margin-top: 70px;
+}
+
+.Header {
+  border-bottom: 1px solid #ddd;
+}
+
+.nav-link.active {
+  background-color: darkred;
+  border-radius: 8px;
+  padding: 0.58em;
+}
+
+.InputField {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
